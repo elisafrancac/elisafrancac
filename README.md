@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elisa</h1>
 <h3 align="center">Software development student at Trybe.</h3>
 
-- 🔭 I’m currently studying **Trybe**
+- 🔭 I’m currently studying at **Trybe**
 
 - 💬 Ask me about **React, Redux, Javascript, HTML and CSS.**
 
